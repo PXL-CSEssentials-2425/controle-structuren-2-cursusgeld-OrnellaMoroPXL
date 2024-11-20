@@ -45,7 +45,7 @@ namespace cursusgeldOEF
                 if ((inputJaar % 4 == 0 && inputJaar != 100) || (inputJaar % 400 == 0))
                 {
                     resultTextBlock.Text = "is een schrikkeljaar";
-                    inschrijfGeldTextBox.Text = (resultaat + 1.5).ToString();
+                    inschrijfGeldTextBox.Text = $"{resultaat + 1.5}";
                 }
                 else
                 {
