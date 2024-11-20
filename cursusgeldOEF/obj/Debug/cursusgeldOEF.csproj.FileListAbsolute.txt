@@ -1,0 +1,15 @@
+C:\Users\12002643\source\repos\cursusgeldOEF\cursusgeldOEF\bin\Debug\cursusgeldOEF.exe.config
+C:\Users\12002643\source\repos\cursusgeldOEF\cursusgeldOEF\bin\Debug\cursusgeldOEF.exe
+C:\Users\12002643\source\repos\cursusgeldOEF\cursusgeldOEF\bin\Debug\cursusgeldOEF.pdb
+C:\Users\12002643\source\repos\cursusgeldOEF\cursusgeldOEF\obj\Debug\cursusgeldOEF.csproj.AssemblyReference.cache
+C:\Users\12002643\source\repos\cursusgeldOEF\cursusgeldOEF\obj\Debug\MainWindow.g.cs
+C:\Users\12002643\source\repos\cursusgeldOEF\cursusgeldOEF\obj\Debug\App.g.cs
+C:\Users\12002643\source\repos\cursusgeldOEF\cursusgeldOEF\obj\Debug\cursusgeldOEF_MarkupCompile.cache
+C:\Users\12002643\source\repos\cursusgeldOEF\cursusgeldOEF\obj\Debug\cursusgeldOEF_MarkupCompile.lref
+C:\Users\12002643\source\repos\cursusgeldOEF\cursusgeldOEF\obj\Debug\MainWindow.baml
+C:\Users\12002643\source\repos\cursusgeldOEF\cursusgeldOEF\obj\Debug\cursusgeldOEF.g.resources
+C:\Users\12002643\source\repos\cursusgeldOEF\cursusgeldOEF\obj\Debug\cursusgeldOEF.Properties.Resources.resources
+C:\Users\12002643\source\repos\cursusgeldOEF\cursusgeldOEF\obj\Debug\cursusgeldOEF.csproj.GenerateResource.cache
+C:\Users\12002643\source\repos\cursusgeldOEF\cursusgeldOEF\obj\Debug\cursusgeldOEF.csproj.CoreCompileInputs.cache
+C:\Users\12002643\source\repos\cursusgeldOEF\cursusgeldOEF\obj\Debug\cursusgeldOEF.exe
+C:\Users\12002643\source\repos\cursusgeldOEF\cursusgeldOEF\obj\Debug\cursusgeldOEF.pdb
